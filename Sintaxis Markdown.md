@@ -95,18 +95,18 @@ Otra forma de acceder al navegador de Google Chrome. *[Click aqui][page]*
 <https://www.youtube.com/>
 
 ## Omitir Markdown
-\  barra invertida
-`  acento invertido
-\*  asterisco
-\_  guión bajo
-\{} llaves
-\[] corchetes
-\() paréntesis
-\#  almohadilla
-\+  símbolo de suma
-\-  guión
-\.  punto
-\!  exclamación
+\  barra invertida  
+`  acento invertido  
+\*  asterisco  
+\_  guión bajo  
+\{} llaves  
+\[] corchetes  
+\() paréntesis  
+\#  almohadilla  
+\+  símbolo de suma  
+\-  guión  
+\.  punto  
+\!  exclamación  
 
 ## Tablas
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
